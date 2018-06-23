@@ -25,7 +25,7 @@
   },
   {
     "id": 6,
-    "image": "/assets/images/ocean.jpg",
+    "image": "./assets/images/ocean.jpg",
     "clicked": false
   },
   {
