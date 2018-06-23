@@ -62,7 +62,7 @@ class Game extends Component {
 
 	}
 
-	handleCorrectGuess = newFriendList => {
+	handleIncorrectGuess = newFriendList => {
 		const resetFriendsList = newFriendList.map(friend => {
 			friend.clicked = false
 			return friend;
