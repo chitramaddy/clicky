@@ -2,7 +2,7 @@ import React from "react";
 import { Grid, Header } from "semantic-ui-react";
 
 const styles = {
-  background: "url('./../../public/assets/images/spring.png') repeat",
+  background: "url('./assets/images/spring.png') repeat",
   backgroundBlendMode: "multiply"
 }
 
