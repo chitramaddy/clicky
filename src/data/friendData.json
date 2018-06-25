@@ -1,26 +1,26 @@
 [{
     "id": 1,
-    "image": "/assets/images/car.jpg",
+    "image": "./assets/images/car.jpg",
     "clicked": false
 },
 {
     "id": 2,
-    "image": "/assets/images/clock.jpg",
+    "image": "./assets/images/clock.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/flower.jpg",
+    "image": "./assets/images/flower.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/honey.jpg",
+    "image": "./assets/images/honey.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/mobile.jpg",
+    "image": "./assets/images/mobile.jpg",
     "clicked": false
   },
   {
@@ -30,32 +30,32 @@
   },
   {
     "id": 7,
-    "image": "/assets/images/red.jpg",
+    "image": "./assets/images/red.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/salad.jpg",
+    "image": "./assets/images/salad.jpg",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/shrub.jpg",
+    "image": "./assets/images/shrub.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/type-set.jpg",
+    "image": "./assets/images/type-set.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/rose.jpg",
+    "image": "./assets/images/rose.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/watch.jpg",
+    "image": "./assets/images/watch.jpg",
     "clicked": false
   }
 ]
